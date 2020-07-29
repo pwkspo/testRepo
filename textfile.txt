@@ -1,1 +1,8 @@
 pokus dostat file na git
+
+
+Hokus pokus, dalsi test. Tentokrat opacku vi editoru a githubu.
+
+
+Dalsi radek a budeme nahravat na github.
+
